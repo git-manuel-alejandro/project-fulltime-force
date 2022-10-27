@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    height: 10vh;
+    background-color: #2c333b;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0.9em;
+    padding-right: 0.9em;
+    gap: 30px;
+}
+
+.icon-git {
+    height: 36px;
+
+    /* background-color: #ced9e5; */
+}
+
+.icon-git:hover {
+    cursor: pointer;
+}
