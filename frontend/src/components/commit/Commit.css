@@ -1,0 +1,21 @@
+.commit-detail {
+    border-bottom: 1px solid #cfd9e5;
+    max-width: 100%;
+}
+
+.commit-detail:hover {
+    background-color: #2c333b;
+    cursor: pointer;
+}
+
+.commit-title:hover {
+    color: #4b6dc9;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.commit-author:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

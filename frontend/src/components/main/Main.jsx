@@ -26,8 +26,8 @@ export const Main = () => {
 
   return (
     <div className="bg">
-      <General />
-      <hr />
+      {/* <General />
+      <hr /> */}
       <Commits data={data} />
     </div>
   );

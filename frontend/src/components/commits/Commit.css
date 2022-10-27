@@ -1,0 +1,20 @@
+.container {
+    padding: 36px;
+}
+
+
+
+.border-color {
+    border: 1px solid #cfd9e5;
+
+}
+
+.anchor:hover {
+    color: #4b6dc9;
+    text-decoration: underline;
+}
+
+.content {
+    margin: auto;
+    width: 50%;
+}
